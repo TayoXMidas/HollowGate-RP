@@ -1,18 +1,4 @@
-<!--
-HollowGate RP - Launch Landing Page (index.html)
 
-INSTRUCTIONS:
-1) This single file is ready to be used as `index.html` for GitHub Pages (repository's root or in `docs/`).
-2) Replace the placeholder logo at `assets/logo.png` with your main logo. Currently the page references `assets/logo.png`.
-3) Place your in-game screenshots in `assets/interrogation.png`, `assets/cityhall.png`, `assets/img3.png` (or update the filenames in the HTML).
-4) To publish on GitHub Pages: create a repo, upload `index.html` and the `assets/` folder, then enable Pages from main branch root (or push to `gh-pages`).
-
-Release date used for countdown: 2025-12-20 00:00:00 UTC
-
-Created: ready to publish. You can edit styling or copy assets directly into the `assets/` folder.
--->
-
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
